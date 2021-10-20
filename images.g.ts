@@ -1,0 +1,46 @@
+// Auto-generated code. Do not edit.
+namespace myImages {
+
+    helpers._registerFactory("image", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+            case "image1":
+            case "myImage":return img`
+....................
+.........fffff......
+........fffffff.....
+.......ffbfbfbff....
+..d...cbddddddddc...
+..d..ccbd1fdd1fdc...
+.bb..cbddbbddbbdc...
+.ff..cbdfdddddfdc...
+.ff..cbddffffffdc...
+.ff..cbbbdddddddc...
+.ff...ccbbbbbbbcc...
+.ff.....ccccccc.....
+.ffffffffffffffffff.
+..fffffffffffffffff.
+......fffffffffff.ff
+......fffffffffff.ff
+......fffffffffff.ff
+......fffffffffff.ff
+......fffffffffff.ff
+.......888888888..bb
+........88....88..d.
+........88....88....
+........88....88....
+......ff88....88ff..
+......ffff....ffff..
+`;
+        }
+        return null;
+    })
+
+    helpers._registerFactory("animation", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+
+        }
+        return null;
+    })
+
+}
+// Auto-generated code. Do not edit.
